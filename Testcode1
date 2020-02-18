@@ -1,2 +1,2 @@
-printf{}
+printf{"this is test"}
 scanf{}
